@@ -18,7 +18,6 @@ public class BookingEntity {
     @Column(name = "id")
     private Long id;
 
-
     @Column(name = "date_start")
     private LocalDateTime startDate;
 

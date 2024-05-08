@@ -1,6 +1,7 @@
-package com.example.rent_apartment.repository;
+package com.example.product_apartment.repository;
 
-import com.example.rent_apartment.model.entity.ClientApplicationEntity;
+
+import com.example.product_apartment.model.entity.ClientApplicationEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
